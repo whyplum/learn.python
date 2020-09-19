@@ -34,7 +34,7 @@ git push origin master
 ```
 
 
-## Useful resources
+## Useful resource
 
 ### Python courses:
 
