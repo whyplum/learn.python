@@ -11,6 +11,10 @@ Set of python exercises with solutions.
 git clone https://github.com/whyplum/learn.python.git`
 cd lean.python
 ```
+- pull changes:
+```
+git pull origin master
+```
 
 - check status
 ```
