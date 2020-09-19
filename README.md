@@ -12,7 +12,7 @@ git clone https://github.com/whyplum/learn.python.git`
 cd lean.python
 ```
 
-- check status
+- check statu
 ```
 git status
 ```
